@@ -1,0 +1,4 @@
+type,question,option1,option2,option3,option4,correct
+choice,請問 1 + 1 = ?,1,2,3,4,2
+choice,請問 2 + 2 = ?,3,4,5,6,4
+fill,請輸入 3 + 3 的答案,,,,,6
